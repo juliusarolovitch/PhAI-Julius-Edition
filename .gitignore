@@ -1,0 +1,42 @@
+# Ignore datasets directory
+datasets/
+
+# Ignore maps directory
+maps/
+
+# Ignore paths directory
+paths/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore model weights and outputs
+*.pth
+*.pt
